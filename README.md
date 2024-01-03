@@ -12,8 +12,9 @@ Location section showcasing the bakery's presence and projects.
 Baking section featuring superior breads, bagels, and cookies.
 Contact section with information about the bakery's location, contact details, and an embedded Google Map.
 Footer with information about the bakery, its special features, opening hours, and contact details.
-Technologies Used:
 
+
+Technologies Used:
 HTML5
 CSS3
 Font Awesome for icons

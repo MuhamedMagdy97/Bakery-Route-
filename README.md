@@ -15,6 +15,7 @@ Footer with information about the bakery, its special features, opening hours, a
 
 
 Technologies Used:
+
 HTML5
 CSS3
 Font Awesome for icons
